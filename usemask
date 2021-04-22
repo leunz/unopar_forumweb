@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>use mask</title>
+        <style type="text/css">
+            
+            body{
+                background-image: url(https://wallpapercave.com/wp/wp2598917.jpg);
+                background-repeat: repeat;
+            }
+            
+            img{
+                max-height: 600px;
+                max-width: 600px;
+                height: auto;
+                width: auto;
+            }
+            
+            h1{
+                font-family: Ubuntu, Verdana;
+                color: darkturquoise;
+                font-size: 40px;
+            }
+            
+            P.blocktext{
+                font-family: Verdana;
+                margin-left: auto;
+                margin-right: auto;
+                width: 40em;
+            }
+            
+        </style>
+    </head>
+    <body>
+    <center>
+        
+        <h1> USE MÁSCARA! </h1>
+        
+        <img src="http://coronavirus.balneariobarradosul.sc.gov.br/wordpress/wp-content/uploads/2020/04/USE-MASCARA-IMG.png">
+        
+        <p class="blocktext">A covid-19, doença causada pelo coronavírus SARS-Cov-2, 
+        é transmitida principalmente por meio do contato com pequenas gotículas que contêm o vírus e são expelidas 
+        por pessoas infectadas. Elas entram em contato com as nossas vias aéreas, e novo coronavírus pode começar 
+        a se multiplicar no nosso corpo. Portanto, o uso de máscaras é importante como medida de proteção tanto para 
+        você mesmo quanto para as pessoas a seu redor.</p>
+             
+    </center>
+    </body>
+</html>
